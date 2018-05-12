@@ -1,0 +1,30 @@
+_repo: The-Tailor-and-the-Crow--An-Old-Rhyme-with-New-Drawings_27530
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27530-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brooke, L. Leslie (Leonard Leslie)
+    aliases:
+    - Brooke, Leonard Leslie
+    - Brooke, Leslie
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '3547'
+    url: http://www.gutenberg.org/2009/agents/3547
+description: A poem about a tailor who tries to shoot a crow and ends up shooting
+  his pig.
+gutenberg_issued: '2008-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+title: 'The Tailor and the Crow: An Old Rhyme with New Drawings'
+url: http://www.gutenberg.org/ebooks/27530
